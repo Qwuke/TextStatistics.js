@@ -141,7 +141,8 @@
 		var problemWords = {
 			"simile":		3,
 			"forever":		3,
-			"shoreline":	2
+			"shoreline":	2,
+			"police":	2
 		};
 		
 		// Return if we've hit one of those...
